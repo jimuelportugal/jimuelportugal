@@ -1,6 +1,6 @@
 <h1 align="center"><img src="https://raw.githubusercontent.com/jimuelportugal/jimuelportugal/main/IRyS.png" alt="IRyS" />Hi, I'm JIMUEL L. PORTUGAL</h1>
 
-- I’m currently working on [YTDLP](https://github.com/jimuelportugal/YTDLP)
+- I’m currently working on KANADEV and [YTDLP](https://github.com/jimuelportugal/YTDLP)
 
 - I’m currently learning **NextJS**
 
