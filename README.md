@@ -19,7 +19,7 @@
 
 <hr>
 <div style="display: flex; justify-content: center; align-items: center;" align="center">
-  <img height="165" src="https://raw.githubusercontent.com/jimuelportugal/jimuelportugal/main/IRyS.png" alt="IRyS" />
+  <img height="660" src="https://raw.githubusercontent.com/jimuelportugal/jimuelportugal/main/IRyS.png" alt="IRyS" />
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs?username=jimuelportugal&show_icons=true&locale=en&layout=compact" alt="jimuelportugal" />
   <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=jimuelportugal&" alt="jimuelportugal" />
 </div>
