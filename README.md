@@ -1,12 +1,12 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=200&section=header&text=KANADEV&fontSize=70" />
+  <img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=200&section=header&text=MENDOU.exe DEV&fontSize=70" />
 </p>
 
 <h1 align="center"><img src="https://raw.githubusercontent.com/jimuelportugal/jimuelportugal/main/IRyS.png" alt="IRyS" width="40" /> Hi, I'm JIMUEL L. PORTUGAL</h1>
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Flutter+Developer;Japanese+Language+Learner;NextJS+Student;MENDOU.exe+Lead" alt="Typing SVG" />
-</p>
+</p> -->
 
 - 🚀 I’m currently working on [KANADEV](https://github.com/jimuelportugal/KANADEV_APP) and [YTDLP](https://github.com/jimuelportugal/YTDLP)
 - 📚 I’m currently learning **NextJS**
