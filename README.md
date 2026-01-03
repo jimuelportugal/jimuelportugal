@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=200&section=header&text=MENDOU.exe+DEV&fontSize=70" />
+  <img src="https://capsule-render.vercel.app/api?type=wave&color=black&height=200&section=header&text=MENDOU.exe+DEV&fontSize=70" />
 </p>
 
 <h1 align="center"><img src="https://raw.githubusercontent.com/jimuelportugal/jimuelportugal/main/IRyS.png" alt="IRyS" width="40" /> Hi, I'm JIMUEL L. PORTUGAL</h1>
@@ -34,9 +34,6 @@
   <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a>
 </p>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=jimuelportugal&theme=tokyonight&column=7" alt="Trophies" />
-</p>
 
 <hr>
 
@@ -44,5 +41,8 @@
 
 <div align="center">
   <img height="165" src="https://github-readme-stats-fast.vercel.app/api?username=jimuelportugal&show_icons=true&theme=tokyonight" alt="jimuelportugal stats" />
-  <img height="165" src="https://github-readme-streak-stats.vercel.app/?user=jimuelportugal&theme=tokyonight" alt="jimuelportugal streak" />
+  <p>
+    <img src="https://github-profile-trophy.vercel.app/?username=jimuelportugal&theme=tokyonight&column=7" alt="Trophies" />
+  </p>
+  <!-- <img height="165" src="https://github-readme-streak-stats.vercel.app/?user=jimuelportugal&theme=tokyonight" alt="jimuelportugal streak" /> -->
 </div>
