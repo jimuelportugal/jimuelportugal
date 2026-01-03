@@ -4,6 +4,7 @@
 
 <h1 align="center"><img src="https://raw.githubusercontent.com/jimuelportugal/jimuelportugal/main/IRyS.png" alt="IRyS" width="40" /> Hi, I'm JIMUEL L. PORTUGAL</h1>
 
+<img src="https://github-profile-trophy.vercel.app/?username=jimuelportugal&theme=tokyonight&column=7" alt="Trophies" />
 <!-- <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Flutter+Developer;Japanese+Language+Learner;NextJS+Student;MENDOU.exe+Lead" alt="Typing SVG" />
 </p> -->
@@ -32,7 +33,6 @@
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
   <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a>
-  <img src="https://github-profile-trophy.vercel.app/?username=jimuelportugal&theme=tokyonight&column=7" alt="Trophies" />
 </p>
 
 
