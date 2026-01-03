@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=wave&color=black&height=200&section=header&text=MENDOU.exe+DEV&fontSize=70" />
+  <img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=200&section=header&text=MENDOU.exe+DEV&fontSize=70" />
 </p>
 
 <h1 align="center"><img src="https://raw.githubusercontent.com/jimuelportugal/jimuelportugal/main/IRyS.png" alt="IRyS" width="40" /> Hi, I'm JIMUEL L. PORTUGAL</h1>
@@ -40,9 +40,7 @@
 <h3 align="center">Every developer's troubles began the day they tried to center a div.</h3>
 
 <div align="center">
+  <p><img src="https://github-profile-trophy.vercel.app/?username=jimuelportugal&theme=tokyonight&column=7" alt="Trophies" /></p>
   <img height="165" src="https://github-readme-stats-fast.vercel.app/api?username=jimuelportugal&show_icons=true&theme=tokyonight" alt="jimuelportugal stats" />
-  <p>
-    <img src="https://github-profile-trophy.vercel.app/?username=jimuelportugal&theme=tokyonight&column=7" alt="Trophies" />
-  </p>
   <!-- <img height="165" src="https://github-readme-streak-stats.vercel.app/?user=jimuelportugal&theme=tokyonight" alt="jimuelportugal streak" /> -->
 </div>
