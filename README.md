@@ -31,6 +31,7 @@
 <hr>
 <h3 align="center">Every developer's troubles began the day they tried to center a div.</h3>
 <div style="display: flex; justify-content: center; align-items: center;" align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs?username=jimuelportugal&show_icons=true&locale=en&layout=compact" alt="jimuelportugal" />
-  <img height="165" src="https://streak-stats.demolab.com?user=jimuelportugal&hide_total_contributions=true&v=3" alt="jimuelportugal" />
+  <img height="165" src="https://github-readme-stats-fast.vercel.app/api?username=jimuelportugal&show_icons=true&theme=tokyonight" alt="jimuelportugal stats" />
+  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=jimuelportugal&theme=tokyonight" alt="jimuelportugal streak" />
 </div>
+
