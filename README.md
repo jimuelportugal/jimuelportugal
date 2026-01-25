@@ -15,7 +15,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/tajiyorutsuki" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="tajiyorutsuki" height="30" width="40" /></a>
+<a href="https://x.com/MENDOUexe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="tajiyorutsuki" height="30" width="40" /></a>
 <a href="https://fb.com/jimuel l. portugal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="jimuel l. portugal" height="30" width="40" /></a>
 <a href="https://instagram.com/jimuel_42gal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jimuel_42gal" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/tajiyorutsuki" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="tajiyorutsuki" height="30" width="40" /></a>
